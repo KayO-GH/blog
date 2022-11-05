@@ -1,4 +1,5 @@
 # KayO's Tech Blog
+https://kayo-gh.github.io/blog/
 
 _Built off the [Github Pages template](https://github.com/skills/github-pages) by [Github Skills](https://github.com/skills)._
 
