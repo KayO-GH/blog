@@ -5,6 +5,8 @@ date: 2018-12-11
 
 # \#100KataChallenge — Day 2 Solutions
 
+![Data Types Challenge Flyer](https://miro.medium.com/max/1100/1*9NDi8OIw7d6DJ4FgjIXJpw.png)
+
 Hi there!
 
 We have noticed during this #100KataChallenge that some of our beginners are having a tough time with some of the challenges. This is nothing to be ashamed of, as we’ve all been beginner programmers at some point in time. In an effort to help, every day, at 6 PM we will release a suggested solution for the Katas in our beginner tracks. I’m pretty sure the more experienced coders can tough it out a bit. We believe in you. 
