@@ -1,5 +1,5 @@
 ---
-title: "An AI Story - Part 1"
+title: "An AI Story — Part 1"
 date: 2018-11-01
 ---
 
