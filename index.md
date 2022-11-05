@@ -2,7 +2,8 @@
 title: Home
 ---
 
-My name is Kwadwo. Nice to meet you 😊.  
+My name is Kwadwo. My friends call me KayO.  
+I love AI & Software Engineering.  
 
 I've been running two blogs for a few years now:
 - [Chopbox Life](https://chopboxlife.com/): A fictional blog based just in part on my life in high school.
