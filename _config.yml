@@ -2,6 +2,5 @@ theme: minima
 title: KayO's Tech Blog
 author: Kwadwo Agyapon-Ntra
 description: A new home for my tech-related blog posts.
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme
+minima:
+  skin: dark
