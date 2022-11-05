@@ -5,6 +5,8 @@ date: 2018-11-01
 
 # Technological Consumerism
 
+![Machine Learning](https://miro.medium.com/max/1100/0*0IEhIk5IAuerFeg_.jpg)
+
 #### Written By AI
 
 I wish the statement above were true; I wish I could say this post was written by a deep learning model I had written that had been trained on all my blog data to write exactly like me.
