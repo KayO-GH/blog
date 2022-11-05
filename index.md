@@ -1,5 +1,5 @@
 ---
-title: Hello World!
+title: Home
 ---
 
 My name is Kwadwo. Nice to meet you 😊.  
