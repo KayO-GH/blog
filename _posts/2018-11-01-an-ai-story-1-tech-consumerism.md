@@ -38,13 +38,11 @@ Granted, not everyone is cut out for a life of digging beyond the surface, but t
 
 ![University of Youtube](https://i0.wp.com/www.digitaltechnologies.education/wp-content/uploads/2016/01/university-of-youtube.png)
 
-I decided to be different. I cannot afford to be the guy with a title and no skills to back it up. I cannot be the guy who builds solutions that only work well in other countries because the underlying building blocks were born from research tailored to other environments. I’ve decided to do the ‘dirty’ work of actually understanding, researching and building.
+I've decided to be different. I cannot afford to be the guy with a title and no skills to back it up. I cannot be the guy who builds solutions that only work well in other countries because the underlying building blocks were born from research tailored to other environments. I’ve decided to do the ‘dirty’ work of actually understanding, researching and building.
 
 This resolve was made years ago, but I would like to begin documenting my progress over time, especially in the field of Artificial Intelligence which I have taken a liking to.
 
 Think of the posts that follow under this title as little windows from which you can take a peek at me tinkering around. They could be articles, they could be code snippets or even some interesting reads I’ve found. I hope that at the very least, some kids see these things and think to themselves, “I can be more, I can do more.”
-
----
 
 I hope you enjoy my journey, but even more, I hope it results in the end I have in mind. Maybe, one of these days, I’ll actually train an AI model to write an article for me, and you guys won’t be able to tell the difference. Hehehe.
 
