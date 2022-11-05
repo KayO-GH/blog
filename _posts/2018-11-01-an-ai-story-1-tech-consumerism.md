@@ -15,7 +15,7 @@ For most of my typical blog audience, it’s actually quite likely that a lot of
 
 Living in Africa, it’s easy to allow all the technological innovation happening to go over our heads. It’s like we’re too busy surviving to have the time to innovate on the same scale as the rest of the world. Abraham Maslow had a good point with his hierarchy of needs.
 
-![Maslow's Hierarchy of Needs 2.0](../MHoN.jpg)
+<img src="docs/assets/images/MHoN.jpg" alt="Maslow's Hierarchy of Needs 2.0"/>
 
 However, does this mean we’ll never catch up with the rest of the world? Are we not going to at least try, simply because the gap in development is so wide? Personally, I can’t live like that: I cannot accept mediocrity because advancement was lost on the generations that went before me.
 What are you doing about it?
