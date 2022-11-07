@@ -1,5 +1,5 @@
 ---
-title: AI For Child Online Safety
+title: AI For Online Child Safety
 date: 2022-11-07
 ---
 
