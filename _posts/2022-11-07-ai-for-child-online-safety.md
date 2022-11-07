@@ -23,7 +23,7 @@ It's a simple and intutive interface (I promise not to show you any dirty images
 You can test it out [here](https://huggingface.co/spaces/KayO/WebsiteImageSafetyAnalyzer) with your own examples. Feedback is welcome.
 
 #### Current Limitations
-There are a whole host of limitations:
+There's quite a number of limitations. These are the ones off the top of my head:
 1. This classifier works just for just sexually explicit images right now, there is more work to be done with violence, substance abuse, etc.
 2. The internet is made up of more txt than images, so there is a lot of NLP work to do in terms of profanity, hate speech, etc.
 3. Don't get me started on video analysis.
